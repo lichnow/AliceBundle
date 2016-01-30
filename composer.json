@@ -1,5 +1,5 @@
 {
-    "name": "hautelook/alice-bundle",
+    "name": "lichnow/alice-bundle",
     "description": "Symfony2 Bundle to manage fixtures with Alice and Faker.",
     "keywords": ["Symfony", "Fixture", "ORM", "Alice", "Faker"],
     "type": "symfony-bundle",
@@ -57,7 +57,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "dev-master"
         }
     }
 }
